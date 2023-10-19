@@ -1,7 +1,7 @@
 {
     "id": "starfinder-pf2-lang",
     "title": "Starfinder PF2 Language Conversion",
-    "description": "",
+    "description": "An update to the en language to convert PF2 to a starfinder 2e conversion.",
     "version": "0.0.1",
     "minimumCoreVersion" : "0.4.5",
     "author": "Flornes",
@@ -17,7 +17,7 @@
     ],
     
     "url": "https://github.com/davidcorne/foundryvtt-starfinder-lang",
-	  "manifest": "",
+	  "manifest": "https://raw.githubusercontent.com/davidcorne/foundryvtt-starfinder-lang/main/lang-star/module.json",
 	  "download": "https://github.com/davidcorne/foundryvtt-starfinder-lang/archive/refs/heads/main.zip"
   }
   
