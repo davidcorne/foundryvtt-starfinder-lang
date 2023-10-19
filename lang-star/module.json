@@ -2,7 +2,7 @@
     "id": "starfinder-pf2-lang",
     "title": "Starfinder PF2 Language Conversion",
     "description": "An update to the en language to convert PF2 to a starfinder 2e conversion.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "minimumCoreVersion" : "0.4.5",
     "author": "Flornes",
     "scripts": [],
